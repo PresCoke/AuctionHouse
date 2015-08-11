@@ -1,0 +1,29 @@
+<Auction>
+	<item>
+		<id>100</id>
+		<description>10.0MP Digital Camera With 17-45mm lens kit</description>
+		<imagePath>C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\Data\digitalcamera.png</imagePath>
+		<startBid>100.00</startBid>
+	</item>
+
+	<item>
+		<id>200</id>
+		<description>2.13GHz Laptop delivers fast performance combined with HD entertainment</description>
+		<imagePath>C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\Data\laptop.png</imagePath>
+		<startBid>200.00</startBid>
+	</item>
+
+	<item>
+		<id>300</id>
+		<description>2 Slice Stainless Steel Toaster</description>
+		<imagePath>C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\Data\Toaster.png</imagePath>
+		<startBid>300.00</startBid>
+	</item>
+
+	<item>
+		<id>400</id>
+		<description>Handset DECT 6.0 Cordless Phone With Caller ID</description>
+		<imagePath>C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\Data\phone.png</imagePath>
+		<startBid>400.00</startBid>
+	</item>
+</Auction>

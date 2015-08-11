@@ -1,0 +1,17 @@
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\bin\Debug\AnalogClock.dll
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\AuctionClient.AnalogClock.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.dll
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\bin\Debug\AnalogClock.dll
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\AuctionClient.AnalogClock.resources
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\ResGen.write.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.dll
+D:\Documents\Projects\Programming\AuctionHouse\AnalogClock\obj\Debug\AnalogClock.pdb

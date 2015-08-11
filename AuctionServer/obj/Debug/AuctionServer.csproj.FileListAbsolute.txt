@@ -1,0 +1,23 @@
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\bin\Debug\AuctionServer.exe
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\bin\Debug\AuctionServer.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\bin\Debug\UnEditableRichTextBox.dll
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\bin\Debug\UnEditableRichTextBox.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.ServerView.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.Properties.Resources.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.exe
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.AddItemForm.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.AddItemForm.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.ServerView.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.Properties.Resources.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\ResGen.write.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.exe
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\bin\Debug\AuctionServer.exe
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\bin\Debug\AuctionServer.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\bin\Debug\UnEditableRichTextBox.dll
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\bin\Debug\UnEditableRichTextBox.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionServer\obj\Debug\AuctionServer.pdb

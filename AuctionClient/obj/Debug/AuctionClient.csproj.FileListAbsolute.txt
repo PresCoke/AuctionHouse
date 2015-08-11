@@ -1,0 +1,27 @@
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\AuctionClient.exe
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\AuctionClient.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\UnEditableRichTextBox.dll
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\UnEditableRichTextBox.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.AuctionItemControl.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.ClientView.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.Properties.Resources.resources
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.exe
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.pdb
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\AnalogClock.dll
+C:\Documents and Settings\Jon Doe\My Documents\Visual Studio 2008\Projects\AuctionHouse\AuctionClient\bin\Debug\AnalogClock.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\AuctionClient.exe
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\AuctionClient.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\AnalogClock.dll
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\UnEditableRichTextBox.dll
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\UnEditableRichTextBox.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\bin\Debug\AnalogClock.pdb
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.AuctionItemControl.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.ClientView.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.Properties.Resources.resources
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\ResGen.write.1.tlog
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.exe
+D:\Documents\Projects\Programming\AuctionHouse\AuctionClient\obj\Debug\AuctionClient.pdb
